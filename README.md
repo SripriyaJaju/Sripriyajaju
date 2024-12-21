@@ -1,4 +1,4 @@
-# Hi Developers!! <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="50px">
+<h1 align="center">Hi Developers!! <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="50px"></h1>
 
 <h3 align="center">AI and Data Science Enthusiast</h3>
 
@@ -105,10 +105,9 @@ I am Sripriya Jaju, an Artificial Intelligence and Data Science student at Metho
 
 ## Contact Info
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/Sripriya-Jaju/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="mailto:sripriyajaju@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/Sripriya-Jaju/"><img align="left" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:sripriyajaju@gmail.com"><img align="left" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 </p>
 
 <hr>
-
