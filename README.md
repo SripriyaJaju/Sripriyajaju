@@ -1,16 +1,19 @@
-<h1 align="center">Hi Developers!! <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="50px"></h1>
+# Hi Developers!! <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="50px">
 
 <h3 align="center">AI and Data Science Enthusiast</h3>
 
 <hr>
 
-About Me
-I am Sripriya Jaju, Artificial Intelligence and Data Science student at Methodist College of Engineering and Technology. Committed to continuous learning and professional growth in the ever-evolving field of AI and data science.
+## About Me
+
+I am Sripriya Jaju, an Artificial Intelligence and Data Science student at Methodist College of Engineering and Technology. Committed to continuous learning and professional growth in the ever-evolving field of AI and data science.
 
 <hr>
 
-Technical Skills 🛠
-Programming Languages
+## Technical Skills 🛠
+
+### Programming Languages
+
 <span style="display: inline-block;">
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" width="52px" alt="Python">
@@ -29,7 +32,8 @@ Programming Languages
   </a>
 </span>
 
-Machine Learning
+### Machine Learning
+
 <span style="display: inline-block;">
   <a href="https://numpy.org" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/numpy.png" height="48px" alt="numpy">
@@ -54,7 +58,8 @@ Machine Learning
   </a>
 </span>
 
-Web Development
+### Web Development
+
 <span style="display: inline-block;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="52px" alt="HTML">
@@ -64,7 +69,8 @@ Web Development
   </a>
 </span>
 
-Database
+### Database
+
 <span style="display: inline-block;">
   <a href="https://www.oracle.com/database/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="60px" height="70px" alt="Oracle">
@@ -74,15 +80,20 @@ Database
   </a>
 </span>
 
-Cloud Platforms
+### Cloud Platforms
+
 <a href="https://cloud.google.com" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="52px" alt="Google Cloud">
 </a>
 
-Tools
+### Tools
+
 <span style="display: inline-block;">
   <a href="https://www.tableau.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="52px" alt="Tableau">
+  </a>
+  <a href="https://powerbi.microsoft.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="52px" alt="Power BI">
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="52px" alt="Microsoft Excel">
@@ -92,12 +103,12 @@ Tools
   </a>
 </span>
 
+## Contact Info
 
-Contact Info
 <p align="center">
   <a href="https://www.linkedin.com/in/Sripriya-Jaju/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="mailto:sripriyajaju@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-
 </p>
 
 <hr>
+
