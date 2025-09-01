@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am Sripriya Jaju, an Artificial Intelligence and Data Science student at Methodist College of Engineering and Technology. Committed to continuous learning and professional growth in the ever-evolving field of AI and data science.
+I am Sripriya Jaju, an Artificial Intelligence and Data Science graduate from Methodist College of Engineering and Technology. Committed to continuous learning and professional growth in the ever-evolving field of AI and data science.
 
 <hr>
 
